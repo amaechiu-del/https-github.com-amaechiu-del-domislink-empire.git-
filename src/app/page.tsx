@@ -18,7 +18,7 @@ export default function Home() {
             Next.js Docs
           </a>
           <a
-            href="https://github.com/amaechiu-del/https-github.com-amaechiu-del-domislink-empire.git-"
+            href="https://github.com/amaechiu-del"
             target="_blank"
             rel="noopener noreferrer"
             className="inline-flex items-center justify-center h-12 px-6 rounded-full border border-zinc-200 text-zinc-800 text-sm font-medium transition-colors hover:bg-zinc-100 dark:border-zinc-700 dark:text-zinc-200 dark:hover:bg-zinc-800"
